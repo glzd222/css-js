@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    
+
+}
+
+
+
+.container{
+    max-width: 1300px;
+    margin: auto 0;
+}
+
+header{
+    background-color: white
+   
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 250px
+    ;
+    margin-bottom: 30px;
+}
+
+ul{
+    display: flex;
+    gap: 4rem;
+}
+ nav ul li a{
+    color: rgb(120, 120, 120);
+}
+nav{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.icon {
+    
+display: flex;
+margin-left: 60px;
+gap: 2rem;
+}
+.h11{
+    margin-top: 40px;
+}
+
+.icon{
+    margin-top: 30px;
+}
+.icon a{
+    color: rgb(120, 120, 120);
+}
+.h11 h1{
+    color: rgb(245, 108, 93);
+}
+.header{
+margin-left: -100px;
+}
+
+section2 img{
+    height: 600px;
+    margin-bottom: 40px;
+    
+}
+
+.h11{
+    display: flex;
+}
+.h11 #part{
+   color: rgb(87, 86, 86);
+}
+.card img{
+    height: 350px;
+}
+
+#nav1{
+    margin-left: -30px;
+    margin-bottom: 30px;
+    
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin-left: 20px;
+}
+
+
+
