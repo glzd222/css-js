@@ -126,3 +126,6 @@ text-align: center;
 footer{
     background-color: #FEFAF3;
 }
+.card-text{
+    opacity: 0.4;
+}
