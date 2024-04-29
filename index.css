@@ -80,8 +80,9 @@ section2 img{
 }
 
 #nav1{
-    margin-left: -30px;
+    margin-left: -0px;
     margin-bottom: 30px;
+    
     
 }
 
@@ -91,7 +92,37 @@ section2 img{
 }
 .card{
     margin-left: 20px;
+    margin-bottom: 40px;
+}
+.card-text{
+text-align: center;
 }
 
+.card h1{
+    font-size: small;
+   text-align: center;
+}
 
+.footer{
+    display: flex;
+}
 
+.footer h1{
+    font-size: 13px;
+    margin-left: -10px;
+}
+.footer nav ul{
+    margin-left: -40px;
+    
+}
+
+.footer ul li{
+    font-size: small;
+}
+
+.footer{
+    margin-left: -160px;
+}
+footer{
+    background-color: #FEFAF3;
+}
